@@ -1,0 +1,9 @@
+{
+  "name": "plus-ou-moins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.24.0"
+  }
+}
